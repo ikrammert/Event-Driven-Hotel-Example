@@ -1,9 +1,9 @@
 # Event-Driven-Hotel-Example
 event-Driven Hotel Booking System using Go and C# with RabbitMQ
 
-# Olay Tabanlı Otel Rezervasyon Sistemi
+# Event-Driven Otel Rezervasyon Sistemi
 
-Bu proje, Go ile geliştirilen Rezervasyon Servisi ve C# ile geliştirilen Ödeme ve Bildirim Servisleri kullanılarak oluşturulmuş olay tabanlı bir otel rezervasyon sistemini göstermektedir. Servisler arası iletişimi sağlamak için RabbitMQ mesaj aracısı kullanılmıştır.
+Bu proje, Go ile geliştirilen Rezervasyon Servisi ve C# ile geliştirilen Ödeme ve Bildirim Servisleri kullanılarak oluşturulmuş Event-Driven bir otel rezervasyon sistemini göstermektedir. Servisler arası iletişimi sağlamak için RabbitMQ mesaj aracısı kullanılmıştır.
 
 ## Servisler
 
